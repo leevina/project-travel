@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "Cappadocia, Turkey",
+      "description": "Cappadocia adalah sebuah kawasan kuno dan bersejarah yang terletak di pusat Anatolia, Turki.",
+      "imageUrl": "/img/img.jpeg",
+      "budget": 100000000,
+      "isActive": false,
+      "id": "1"
+    },
+    {
+      "name": "Bali, Indonesia",
+      "description": "Bali, juga dikenal sebagai Kepulauan Bali, adalah sebuah wilayah provinsi yang terletak di Indonesia. Ibu kotanya adalah Denpasar.",
+      "imageUrl": "/img/img2.jpeg",
+      "budget": 20000000,
+      "isActive": true,
+      "id": "2"
+    },
+    {
+      "name": "Raja Ampat, Indonesia",
+      "description": "Raja Ampat adalah sebuah campanile atau menara lonceng gereja katedral di kota Pisa, Italia.",
+      "imageUrl": "/img/img3.jpeg",
+      "budget": 22000000,
+      "isActive": true,
+      "id": "3"
+    },
+    {
+      "name": "Taj Mahal, India",
+      "description": "Taj Mahal adalah sebuah mausoleum yang terletak di Agra, India. Dibangun atas keinginan Kaisar Mughal Shāh Jahān, anak Jahangir, sebagai sebuah mausoleum untuk istri Persianya, Arjumand Banu Begum, juga dikenal sebagai Mumtaz-ul-Zamani atau Mumtaz Mahal.",
+      "imageUrl": "/img/img4.jpeg",
+      "budget": 110000000,
+      "isActive": false,
+      "id": "4"
+    },
+    {
+      "name": "Namsan Tower, Korea Selatan",
+      "description": "The Namsan Tower, atau yang juga dikenal dengan sebutan N Seoul Tower, adalah menara observasi yang terletak di atas Bukit Namsan di pusat kota Seoul, Korea Selatan. Menara ini adalah salah satu ikon terkenal di kota Seoul dan menjadi tempat wisata favorit bagi wisatawan lokal maupun internasional.",
+      "imageUrl": "/img/img5.jpeg",
+      "budget": 150000000,
+      "isActive": true,
+      "id": "5"
+    },
+    {
+      "name": "The Tower of Pisa",
+      "description": "The Tower of Pisa adalah sebuah campanile atau menara lonceng gereja katedral di kota Pisa, Italia.",
+      "imageUrl": "/img/img8.jpeg",
+      "budget": 300000000,
+      "isActive": false,
+      "id": "6"
+    },
+    {
+      "name": "Pink Beach",
+      "description": "Pink Beach atau pantai pink yang berada di Labuan Bajo, Nusa Tenggara Timur, merupakan salah satu surga wisata di Indonesia. Dengan pasir yang berwarna pink dan birunya air laut, banyak wisatawan yang datang dari domestik maupun mancanegara.",
+      "imageUrl": "/img/img7.jpeg",
+      "budget": 200000000,
+      "isActive": true,
+      "id": "7"
+    },
+    {
+      "name": "Kawah Ijen Volcano, Indonesia",
+      "description": "Kawah Ijen Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak Gunung Ijen dengan kedalaman danau 200 meter dan luas kawah mencapai 5.466 Hektar. Danau kawah Ijen dikenal merupakan danau air asam kuat terbesar di dunia.",
+      "imageUrl": "/img/img6.jpeg",
+      "budget": 30000000,
+      "isActive": true,
+      "id": "8"
+    }
+  ]
+}

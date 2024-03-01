@@ -1,0 +1,47 @@
+.review-section {
+  padding: 50px 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 2rem;
+  color: white;
+}
+
+.review-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.review {
+  flex: 0 0 calc(33.33% - 20px);
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.review img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.review h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.review p {
+  font-size: 1.2rem;
+  color: #666;
+}
